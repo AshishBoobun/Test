@@ -5,7 +5,7 @@
     <Placemark>
       <name>Geelong - Rest of Vic.</name>
       <description><![CDATA[Geography type: Greater Capital City Statistical Area (GCCSA) (2016)<br>Name: Rest of Vic.<br>Code: 2RVIC<br><br>Geography type: Statistical Area Level 4 (SA4) (2016)<br>Name: Geelong<br>Code: 203]]></description>
-      <styleUrl>#poly-F9A825-1200-76</styleUrl>
+      <styleUrl>#poly-000000-1000-0</styleUrl>
       <MultiGeometry>
         <Polygon>
           <outerBoundaryIs>
